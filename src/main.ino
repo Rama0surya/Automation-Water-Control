@@ -115,7 +115,7 @@ BLYNK_WRITE(V1) {
   // Function to receive pump state from Blynk app
   pump = param.asInt();
 }
-
+//apa aja
 BLYNK_WRITE(V2) {
   // Function to receive mode (auto/manual) from Blynk app
   autoMode = param.asInt();
